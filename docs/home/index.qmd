@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+<br />
+
+![](../../images/logo_text.png){fig-width="50%," fig-height="50%"}
+
+##### **P**recision medicine **A**daptive platform **N**etwork **T**rial in **H**ypoxemic acut**E** respiratory failu**R**e {.index}

@@ -2,18 +2,58 @@ project:
   type: website
 
 website:
-  title: "PANTHER_website"
+  page-navigation: true
+  title: ""
+  description: "Intervention selection for Precision medicine Adaptive platform Network Trial in Hypoxemic acutE respiratory failuRe (PANTHER)"
+  site-url: "https://panthertrial.netlify.app/"
+
+  repo-url: https://github.com/JonathanEMillar/PANTHER_website
+
+  page-footer:
+    right:
+    - text: "License"
+      href: LICENSE.qmd
+
   navbar:
+    background: primary
+    logo: "images/logo_not_text.png"
+    align: left
+
+    right:
+      - icon: github
+        href: https://github.com/JonathanEMillar/PANTHER_website
+        aria-label: GitHub
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: docs/home/index.qmd
+      - text: "Proposing an intervention"
+        menu:
+          - text: "Pathway"
+            href: docs/proposals/pathway.qmd
+          - text: "How to propose an intervention"
+            href: docs/proposals/howto.qmd
+          - text: "Platform committee members"
+            href: docs/proposals/platform_members.qmd
+          - text: "Independent committee members"
+            href: docs/proposals/independent_members.qmd
+      - text: "Assessing interventions"
+        menu:
+          - text: "Assessment criteria"
+            href: docs/assessment/criteria.qmd
+          - text: "Future meeting dates"
+            href: docs/assessment/dates.qmd
+          - text: "Past meetings"
+            href: docs/assessment/past.qmd
+      - text: "Current interventions"
+        href: docs/interventions/current.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo]
     css: styles.css
-    toc: true
+
+freeze: auto
 
 editor: visual
-

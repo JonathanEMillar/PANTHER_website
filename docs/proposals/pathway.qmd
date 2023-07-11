@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+### Overview of the pathway for including an intervention in PANTHER {.title}
+
+<br />
+
+![](../../images/pathway.png)

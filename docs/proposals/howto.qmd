@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+### How to propose an intervention for PANTHER
+
+<br />
+
+We welcome proposals from academic and industry partners. Proposals may be for re-purposed drugs or assets suitable for phase II study in our target population.
+
+To assist with the process, we ask those wishing to propose an intervention to complete a standardised summary for the drug. This requests information on the evidence for efficacy, safety, and pharmacology, along with data required to judge the feasibility of including the intervention in the platform.
+
+Informal, pre-submission enquiries can be made to Dr Jonathan Millar ([jonathan.millar\@ed.ac.uk](mailto:jonathan.millar@ed.ac.uk){.email}) or Prof Danny McAuley ([d.f.mcauley\@qub.ac.uk)](mailto:d.f.mcauley@qub.ac.uk)){.email}.
+
+Complete proposals will first be considered by the PANTHER intervention selection committee. Interventions will be assessed against a pre-defined [criteria](../assessment/criteria.qmd).
+
+Based on these criteria and the available evidence, this committee will formulate a recommendation on the drugs potential for inclusion. Recommendations of the this group are scrutinised by an independent intervention committee before being accepted.
+
+The final decision on inclusion in the platform rests with the platform steering committee.
+
+It is anticipated that new interventions will join the platform at intervals, as others graduate or end. Over time, the evidence supporting interventions is likely to evolve. Therefore, interventions deemed to have insufficient support at the time of assessment will continue to be periodically reconsidered.
+
+A list of these can be viewed [here](../interventions/current.qmd).
+
+<br />
+
+[Download](proposal_summary_template.docx) a template for proposing an intervention. 
+
+Completed proposals should be addressed to [jonathan.millar\@ed.ac.uk](mailto:jonathan.millar@ed.ac.uk){.email}
