@@ -10,7 +10,7 @@ We welcome proposals from academic and industry partners. Proposals may be for r
 
 To assist with the process, we ask those wishing to propose an intervention to complete a standardised summary for the drug. This requests information on the evidence for efficacy, safety, and pharmacology, along with data required to judge the feasibility of including the intervention in the platform.
 
-Informal, pre-submission enquiries can be made to Dr Jonathan Millar ([jonathan.millar\@ed.ac.uk](mailto:jonathan.millar@ed.ac.uk){.email}) or Prof Danny McAuley ([d.f.mcauley\@qub.ac.uk)](mailto:d.f.mcauley@qub.ac.uk)){.email}.
+Informal, pre-submission enquiries can be made to Dr Jonathan Millar ([jonathan.millar\@ed.ac.uk](mailto:jonathan.millar@ed.ac.uk){.email}) or Prof Danny McAuley ([d.f.mcauley\@qub.ac.uk)](mailto:d.f.mcauley@qub.ac.uk)).
 
 Complete proposals will first be considered by the PANTHER intervention selection committee. Interventions will be assessed against a pre-defined [criteria](../assessment/criteria.qmd).
 
@@ -24,6 +24,6 @@ A list of these can be viewed [here](../interventions/current.qmd).
 
 <br />
 
-[Download](proposal_summary_template.docx) a template for proposing an intervention. 
+[Download](proposal_summary_template.docx) a template for proposing an intervention.
 
 Completed proposals should be addressed to [jonathan.millar\@ed.ac.uk](mailto:jonathan.millar@ed.ac.uk){.email}
