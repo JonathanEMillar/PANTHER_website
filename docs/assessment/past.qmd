@@ -8,14 +8,24 @@ title: ""
 
 **PANTHER intervention selection committee**
 
-24^th^ April, 2023
+::: {.callout-note icon="false" collapse="true"}
+## 21^st^ August, 2023
 
 Minutes to be confirmed
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## 24^th^ April, 2023
+
+Minutes to be confirmed
+:::
 
 <br />
 
 **Independent selection committee**
 
-24^th^ April, 2023
+::: {.callout-note icon="false" collapse="true"}
+## 24^th^ April, 2023
 
 Minutes to be confirmed
+:::

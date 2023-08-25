@@ -2,18 +2,18 @@
 title: ""
 ---
 
-### In trial, prioritised, and rejected interventions
+### In trial, prioritised, and non-prioritsed interventions
 
 <br />
 
 #### In trial
 
+
+
 ::: {.callout-tip icon="false" collapse="true"}
 ## Baricitinib
 
-[Full assessment](drugs/baricitinib.qmd)
-
-Reviewed:  24-04-2023 \ \ \ \ In trial:  tbc
+First reviewed: April 2023     In trial: tbc
 
 Baricitinib selectively and reversibly inhibits the Janus-associated tyrosine kinases JAK1 and JAK2.
 :::
@@ -21,9 +21,7 @@ Baricitinib selectively and reversibly inhibits the Janus-associated tyrosine ki
 ::: {.callout-tip icon="false" collapse="true"}
 ## Simvaststain
 
-[Full assessment](drugs/simvastatin.qmd)
-
-Reviewed:  24-04-2023 \ \ \ \ In trial:  tbc
+First reviewed: April 2023     In trial: tbc
 
 Simvastatin competitively inhibits 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, an enzyme involved in cholesterol synthesis.
 :::
@@ -35,133 +33,171 @@ Simvastatin competitively inhibits 3-hydroxy-3-methylglutaryl coenzyme A (HMG Co
 ::: {.callout-caution icon="false" collapse="true"}
 ## Atibuclimab
 
-[Full assessment](drugs/atibuclimab.qmd)
-
-Reviewed:  24-04-2023 \ \ \ \ Priority:  1
+First reviewed: April 2023     Priority: 1
 
 Atibuclimab (IC14) is a chimeric CD14 antibody
 :::
 
 ::: {.callout-caution icon="false" collapse="true"}
-## Tocilizumab
+## IL-6 receptor inhibitors
 
-[Full assessment](drugs/tocilizumab.qmd)
+First reviewed: April 2023     Priority: 1
 
-Reviewed:  24-04-2023 \ \ \ \ Priority:  1
+Specific drugs prioritised to date:
 
-Tocilizumab is a recombinant humanised monoclonal antibody that binds to interleukin-6 receptors thereby blocking the activity of pro-inflammatory cytokines.
+-    Tocilizumab
 :::
 
 ::: {.callout-caution icon="false" collapse="true"}
-## Vilobelimab
+## Complement inhibitors
 
-[Full assessment](drugs/vilobelimab.qmd)
+First reviewed: April 2023     Priority: 1
 
-Reviewed:  24-04-2023 \ \ \ \ Priority:  1
+Specific drugs prioritised to date:
 
-Vilobelimab is a human-mouse chimeric IgG4 kappa antibody that targets human C5a in plasma.
+-    Vilobelimab (a human-mouse chimeric IgG4 kappa antibody that targets human C5a in plasma)
 :::
 
 <br />
 
-#### Rejected - under review
+Where there are multiple drugs in a class, the class is prioritised until the capacity exists for entry into the platform. At this point, a further exercise is undertaken to decide on the specific drug to be taken forward.
 
-::: {.callout-important icon="false" collapse="true"}
-## Belapectin 
+<br />
 
-*nebulised/inhaled*
+#### Under review
 
-Reviewed:  24-04-2023
+::: {.callout-note icon="false" collapse="true"}
+## Artesunate
 
-Rejected on the basis of insufficient evidence for efficacy.
+First reviewed: August 2023
 
-Belapectin is a Galectin-3 (Gal-3) inhibitor.
+Insufficient evidence at this time.
 :::
 
-::: {.callout-important icon="false" collapse="true"}
-## Dilmapimod
+::: {.callout-note icon="false" collapse="true"}
+## CRAC channel inhibitors
 
-Reviewed:  24-04-2023
+First reviewed: August 2023
 
-Rejected on the basis of insufficient evidence for efficacy.
+Insufficient evidence at this time.
 
-Dilmapimod is a potent p38 MAPK inhibitor.
+Specific drugs considered to date:
+
+-    Auxora (CM4620)
 :::
 
-::: {.callout-important icon="false" collapse="true"}
-## Fingolimod
-
-Reviewed:  24-04-2023
-
-Rejected on the basis of insufficient evidence for efficacy.
-
-Fingolimod is a sphingosine 1-phosphate (S1P) antagonist an a pak1 activator.
-:::
-
-::: {.callout-important icon="false" collapse="true"}
+::: {.callout-note icon="false" collapse="true"}
 ## Furosemide
 
 *nebulised/inhaled*
 
-Reviewed:  24-04-2023
+First reviewed: April 2023
 
-Rejected on the basis of insufficient evidence for efficacy.
-
-Furosemide is a potent and orally active inhibitor of Na+/K+/2Cl- (NKCC) cotransporter, NKCC1 and NKCC2. Furosemide is also a GABAA receptor antagonist.
+Insufficient evidence at this time.
 :::
 
-::: {.callout-important icon="false" collapse="true"}
-## Imatinib
+::: {.callout-note icon="false" collapse="true"}
+## Galectin-3 inhibitors
 
-Reviewed:  24-04-2023
+First reviewed: April 2023
 
-Rejected on the basis of insufficient evidence for efficacy.
+Insufficient evidence at this time.
 
-Imatinib is an orally bioavailable tyrosine kinase inhibitor that selectively inhibits BCR/ABL, v-Abl, PDGFR and c-kit kinase activity.
+Specific drugs considered to date:
+
+-    Belapectin (*nebulised/inhaled*)
 :::
 
-::: {.callout-important icon="false" collapse="true"}
+::: {.callout-note icon="false" collapse="true"}
 ## Macrolides
 
-Reviewed:  24-04-2023
+First reviewed: April 2023
 
-Rejected on the basis of insufficient evidence for efficacy.
+Insufficient evidence at this time.
+:::
 
-Macrolides are protein synthesis inhibitors. 
+::: {.callout-note icon="false" collapse="true"}
+## p38 MAPK inhibitors
+
+First reviewed: April 2023
+
+Insufficient evidence at this time.
+
+Specific drugs considered to date:
+
+-    Dilmapimod
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## PSCK9 inhibitors
+
+First reviewed: August 2023
+
+Insufficient evidence at this time.
+:::
+ 
+::: {.callout-note icon="false" collapse="true"}
+## Neutrophil elastase inhibitors
+
+First reviewed: August 2023
+
+Insufficient evidence at this time.
+
+Specific drugs considered to date:
+
+-    Sivelestat
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Sphingosine 1-phosphate receptor modulators
+
+First reviewed: April 2023
+
+Insufficient evidence at this time.
+
+Specific drugs considered to date:
+
+-    Fingolimod 
+:::
+
+::: {.callout-note icon="false" collapse="true"}
+## Tyrosine kinase inhibitors
+
+Reviewed: 24-04-2023
+
+Insufficient evidence at this time.
+
+Specific drugs considered to date:
+
+-    Imatinib.
 :::
 
 <br />
 
-#### Rejected - not under review
+#### Not prioritised
 
 ::: {.callout-important icon="false" collapse="true"}
 ## Aspirin
 
-Reviewed:  24-04-2023
+Reviewed: 24-04-2023
 
-Rejected on the basis of prevalence of use in the target population.
-
-Aspirin is an orally active, potent and irreversible inhibitor of cyclooxygenase COX-1 and COX-2. Aspirin also inhibits platelet prostaglandin synthetase. 
+Not prioritised on the basis of prevalence of use in the target population.
 :::
 
 ::: {.callout-important icon="false" collapse="true"}
 ## Citrulline
 
-Reviewed:  24-04-2023
+Reviewed: 24-04-2023
 
-Rejected on the basis of insufficient evidence for efficacy.
-
-Citrulline is an α-amino acid.
+Not prioritised on the basis of insufficient evidence for efficacy and lack of biological plausibility.
 :::
 
 ::: {.callout-important icon="false" collapse="true"}
-## Dexamethasone
+## Corticosteroids
 
-Reviewed:  24-04-2023
+Reviewed: 24-04-2023
 
-Rejected on the basis of ongoing or proposed trials.
-
-Dexamethasone is a glucocorticoid receptor agonist. Dexamethasone also significantly decreases CD11b, CD18, and CD62L expression on neutrophils, and CD11b and CD18 expression on monocytes. 
+Not prioritised on the basis of ongoing or proposed trials.
 :::
 
 ::: {.callout-important icon="false" collapse="true"}
@@ -169,11 +205,9 @@ Dexamethasone is a glucocorticoid receptor agonist. Dexamethasone also significa
 
 *nebulised/inhaled*
 
-Reviewed:  24-04-2023
+Reviewed: 24-04-2023
 
-Rejected on the basis of insufficient evidence for efficacy.
-
-N-Acetylcysteine is a mucolytic agent and a ROS inhibitor.
+Not prioritised on the basis of insufficient evidence for efficacy and lack of biological plausibility.
 :::
 
 ::: {.callout-important icon="false" collapse="true"}
@@ -181,17 +215,7 @@ N-Acetylcysteine is a mucolytic agent and a ROS inhibitor.
 
 *nebulised/inhaled*
 
-Reviewed:  24-04-2023
+Reviewed: 24-04-2023
 
-Rejected on the basis of insufficient evidence for efficacy.
-
-Streptokinase is a bacteria-derived protein and a plasminogen activator.
+Not prioritised on the basis of insufficient evidence for efficacy and lack of biological plausibility.
 :::
-
-
-
-
-
-
-
-
