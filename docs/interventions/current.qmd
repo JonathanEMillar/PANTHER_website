@@ -8,7 +8,13 @@ title: ""
 
 #### In trial
 
+::: {.callout-tip icon="false" collapse="true"}
+## Simvaststain
 
+First reviewed: April 2023     In trial: tbc
+
+Simvastatin competitively inhibits 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, an enzyme involved in cholesterol synthesis.
+:::
 
 ::: {.callout-tip icon="false" collapse="true"}
 ## Baricitinib
@@ -16,14 +22,6 @@ title: ""
 First reviewed: April 2023     In trial: tbc
 
 Baricitinib selectively and reversibly inhibits the Janus-associated tyrosine kinases JAK1 and JAK2.
-:::
-
-::: {.callout-tip icon="false" collapse="true"}
-## Simvaststain
-
-First reviewed: April 2023     In trial: tbc
-
-Simvastatin competitively inhibits 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, an enzyme involved in cholesterol synthesis.
 :::
 
 <br />
@@ -39,23 +37,33 @@ Atibuclimab (IC14) is a chimeric CD14 antibody
 :::
 
 ::: {.callout-caution icon="false" collapse="true"}
-## IL-6 receptor inhibitors
-
-First reviewed: April 2023     Priority: 1
-
-Specific drugs prioritised to date:
-
--    Tocilizumab
-:::
-
-::: {.callout-caution icon="false" collapse="true"}
 ## Complement inhibitors
 
 First reviewed: April 2023     Priority: 1
 
 Specific drugs prioritised to date:
 
--    Vilobelimab (a human-mouse chimeric IgG4 kappa antibody that targets human C5a in plasma)
+-   Vilobelimab (a human-mouse chimeric IgG4 kappa antibody that targets human C5a in plasma)
+:::
+
+::: {.callout-caution icon="false" collapse="true"}
+## IL-6 receptor inhibitors
+
+First reviewed: April 2023     Priority: 1
+
+Specific drugs prioritised to date:
+
+-   Tocilizumab
+:::
+
+::: {.callout-caution icon="false" collapse="true"}
+## TNF-alpha inhibitors
+
+First reviewed: April 2023     Priority: 1
+
+Specific drugs prioritised to date:
+
+-   Infliximab
 :::
 
 <br />
@@ -83,7 +91,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Auxora (CM4620)
+-   Auxora (CM4620)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -105,7 +113,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Belapectin (*nebulised/inhaled*)
+-   Belapectin (*nebulised/inhaled*)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -125,7 +133,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Dilmapimod
+-   Dilmapimod
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -135,7 +143,7 @@ First reviewed: August 2023
 
 Insufficient evidence at this time.
 :::
- 
+
 ::: {.callout-note icon="false" collapse="true"}
 ## Neutrophil elastase inhibitors
 
@@ -145,7 +153,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Sivelestat
+-   Sivelestat
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -157,7 +165,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Fingolimod 
+-   Fingolimod
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -169,7 +177,7 @@ Insufficient evidence at this time.
 
 Specific drugs considered to date:
 
--    Imatinib.
+-   Imatinib.
 :::
 
 <br />
