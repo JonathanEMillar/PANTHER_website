@@ -189,7 +189,7 @@ Specific drugs considered to date:
 
 Reviewed: 24-04-2023
 
-Not prioritised on the basis of prevalence of use in the target population.
+Not prioritised on the basis of prevalence of use in the target population and poor recruitment in previous ARDS trials.
 :::
 
 ::: {.callout-important icon="false" collapse="true"}
