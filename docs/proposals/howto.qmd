@@ -14,9 +14,9 @@ Informal, pre-submission enquiries can be made to Dr Jonathan Millar ([jonathan.
 
 Complete proposals will first be considered by the PANTHER intervention selection committee. Interventions will be assessed against a pre-defined [criteria](../assessment/criteria.qmd).
 
-Based on these criteria and the available evidence, this committee will formulate a recommendation on the drugs potential for inclusion. Recommendations of the this group are scrutinised by an independent intervention committee before being accepted.
+Based on these criteria and the available evidence, this committee will then make recommendations to an independent intervention committee. The independent committee will advise the trial management group, who will make the final decision about inclusion into the platform. 
 
-The final decision on inclusion in the platform rests with the platform steering committee.
+The Trial Steering Committee and Data Monitoring Committee will be informed of the plan to introduce a new intervention prior to the commencement of the intervention.
 
 It is anticipated that new interventions will join the platform at intervals, as others graduate or end. Over time, the evidence supporting interventions is likely to evolve. Therefore, interventions deemed to have insufficient support at the time of assessment will continue to be periodically reconsidered.
 
