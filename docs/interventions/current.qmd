@@ -80,6 +80,12 @@ Where there are multiple drugs in a class, the class is prioritised until the ca
 First reviewed: August 2023
 
 Insufficient evidence at this time.
+
+1.  Need proof of concept data in human models
+
+2.  Need rational for dose regime to be used
+
+3.  Await data from ongoing SOLIDARITY trial
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
